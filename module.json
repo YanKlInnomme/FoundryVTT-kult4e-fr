@@ -1,8 +1,8 @@
 {
-    "name": "FoundryVTT-kult4e-fr",
+    "name": "kult4e-fr",
     "title": "Kult 4e Traduction Française - Kult 4e French Translation",
     "description": "Module de traduction en langue française pour la version Kult 4ème édition de Tom LaPorta sur Foundry VTT<br>French translation module for the Kult 4th edition of Tom LaPorta on Foundry VTT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimumCoreVersion" : "0.7.9",
     "compatibleCoreVersion":"9",
     "dependencies":
@@ -18,7 +18,7 @@
 		"type": "system"
 		}
 	],
-    "author": "YanK",
+    "author": "YanK (YanK#8683)",
     "esmodules": ["babele-register.js"],
     "scripts": [],
     "styles": [],
