@@ -11,6 +11,10 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
  * Le système Kult 4ème édition de Tom LaPorta
  * Le module Babele (L'indispensable pour faire de la traduction)
  * Le module Lib-wrapper (Requis par Babele)
+
+## Version 1.0.1
+
+ * Mise pour intégration à la bibliothèque officielle de Foundry VTT
  
 ## Version 1.0.0
 
@@ -27,6 +31,10 @@ In order to work this module requires the following prerequisites:
  * Tom LaPorta's Kult 4th edition system
  * The Babele module (The essential for translation)
  * The Lib-wrapper module (Required by Babele)
+
+## Version 1.0.1
+
+ * Updated for integration into the official Foundry VTT library
  
 ## Version 1.0.0
 
