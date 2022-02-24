@@ -12,7 +12,7 @@
 		{
 			"id": "Act Under Pressure",
 			"name": "Agir sous la pression",
-			"img": "modules/FoundryVTT-kult4e-fr/assets/oppression.png",
+			"img": "modules/kult4e-fr/assets/oppression.png",
 			"trigger": "Lorsque vous faites quelque chose de risqu&eacute;, en un temps imparti, ou devez en m&ecirc;me temps &eacute;viter un danger, <strong>jetez 2d +Sang-froid</strong> apr&egrave;s que lae meneur·euse vous ait expliqu&eacute; quelles seraient les cons&eacute;quences d'un &eacute;chec &agrave; ce jet.",
 			"completesuccess": "Faites comme pr&eacute;vu. <em>[Lae joueur·euse décrit la scène.]</em>",
 			"partialsuccess": "Vous parvenez &agrave; venir &agrave; bout de votre action, mais votre main n'a pas &eacute;t&eacute; s&ucirc;re ou bien vous faites face &agrave; une complication impr&eacute;vue: lae meneur·euse d&eacute;termine une r&eacute;percussion inattendue, un prix suppl&eacute;mentaire &agrave; payer ou le choix corn&eacute;lien qui se pr&eacute;sente. <em>[Lae joueur·euse décrit la scène. Mais lae meneur·euse indique la complication.]</em>",
@@ -21,7 +21,7 @@
 		{
 			"id": "Avoid Harm",
 			"name": "Éviter les dégâts",
-			"img": "modules/FoundryVTT-kult4e-fr/assets/dodging.png",
+			"img": "modules/kult4e-fr/assets/dodging.png",
 			"trigger": "Lorsque vous esquivez, parez ou bloquez des d&eacute;g&acirc;ts, jetez <strong>2d +R&eacute;flexes</strong>.",
 			"completesuccess": "Vous n'&ecirc;tes pas bless&eacute;&middot;e. <em>[Lae joueur·euse décrit la scène.]</em>",
 			"partialsuccess": "Vous &eacute;vitez le plus gros de l'attaque, mais, au choix du·de la meneur·euse vous vous retrouvez en mauvaise posture, perdez quelque chose ou encaissez des d&eacute;g&acirc;ts partiels. <em>[Lae meneur·euse décrit la scène.]",
@@ -30,7 +30,7 @@
 		{
 			"id": "Endure Injury",
 			"name": "Encaisser les blessures",
-			"img": "modules/FoundryVTT-kult4e-fr/assets/amputation.png",
+			"img": "modules/kult4e-fr/assets/amputation.png",
 			"trigger": "Lorsque vous encaissez des blessures, <strong>jetez 2d +Endurance - d&eacute;g&acirc;ts</strong>. Si vous portez une armure, ajoutez sa valeur au r&eacute;sultat du jet.",
 			"completesuccess": "Vous &ecirc;tes plus fort&middot;e que la douleur et continuez ce que vous faites. <em>[Lae joueur·euse décrit la scène.]</em>",
 			"partialsuccess": "<p>Vous tenez debout, mais, au choix du·de la meneur·euse, vous:</p>\n<ul>\n<li>&Ecirc;tes troubl&eacute;.</li>\n<li>Perdez quelque chose.</li>\n<li>Subissez une <strong>blessure s&eacute;rieuse</strong>.</li>\n</ul><p><em>[Lae meneur·euse décrit la scène.]</em></p>",
@@ -39,7 +39,7 @@
 		{
 			"id": "Engage in Combat",
 			"name": "Engager le combat",
-			"img": "modules/FoundryVTT-kult4e-fr/assets/high-punch.png",
+			"img": "modules/kult4e-fr/assets/high-punch.png",
 			"trigger": "Lorsque vous engagez le combat avec un ennemi actif, expliquez comment vous vous y prenez et <strong>jetez 2d +Violence</strong>.",
 			"completesuccess": "Vous infligez des d&eacute;g&acirc;ts &agrave; votre ennemi et &eacute;vitez ses contre-attaques. <em>[Lae joueur·euse décrit la scène.]",
 			"partialsuccess": "Vous infligez des d&eacute;g&acirc;ts, mais vous ne vous en tirez pas indemne. Au choix du·de la meneur·euse, vous:<ul>\n<li>Subissez une contre-attaque.</li>\n<li>Infligez moins de d&eacute;g&acirc;ts que pr&eacute;vu.</li>\n<li>Perdez quelque chose de valeur.</li>\n<li>Utilisez toutes vos munitions.</li>\n<li>Vous retrouvez face &agrave; une nouvelle menace.</li>\n<li>Vous retrouverez face &agrave; de nouveaux ennuis un peu plus tard.</li>\n</ul><p><em>[Lae meneur·euse décrit la scène.]</em></p>",
@@ -48,7 +48,7 @@
 		{
 			"id": "Helping or Hindering",
 			"name": "Aider ou Gêner",
-			"img": "modules/FoundryVTT-kult4e-fr/assets/minions.png",
+			"img": "modules/kult4e-fr/assets/minions.png",
 			"trigger": "Lorsque vous aidez ou g&ecirc;nez l'Action d'un autre personnage joueur, expliquez d'abord ce que vous tentez de faire avant qu'il ne fasse son jet, puis jetez <strong>2d +Caract&eacute;ristique</strong>, o&ugrave; la caract&eacute;ristique est la m&ecirc;me que celle utilis&eacute;e par l'autre joueur.",
 			"completesuccess": "Modifiez le r&eacute;sultat de son jet par +2/-2. <em>[Lae joueur·euse décrit la scène.]</em>",
 			"partialsuccess": "Modifiez le r&eacute;sultat de son jet par +1/-1. <em>[Lae joueur·euse décrit la scène.]</em>",
@@ -57,7 +57,7 @@
 		{
 			"id": "Influence Other",
 			"name": "Influencer autrui",
-			"img": "modules/FoundryVTT-kult4e-fr/assets/conversation.png",
+			"img": "modules/kult4e-fr/assets/conversation.png",
 			"trigger": "Lorsque vous influencez un PNJ en n&eacute;gociant, en argumentant ou en faisant peser votre position de pouvoir, <strong>jetez 2d +Charisme</strong>.",
 			"completesuccess": "Votre cible vous ob&eacute;it. <em>[Lae joueur·euse décrit la scène.]</em>",
 			"partialsuccess": "Votre cible vous ob&eacute;it, mais au choix du·de la meneur·euse :\n<ul>\n<li>Votre cible veut une meilleure compensation.</li>\n<li>Des complications appara&icirc;tront plus tard.</li>\n<li>Votre cible suit vos ordres pour l'instant, mais changera d'avis plus tard ou regrettera d'avoir ob&eacute;i.</li>\n</ul><p><em>[Lae meneur·euse décrit la scène.]</em></p>",
@@ -66,7 +66,7 @@
 		{
 			"id": "Investigate",
 			"name": "Chercher des indices",
-			"img": "modules/FoundryVTT-kult4e-fr/assets/magnifying-glass.png",
+			"img": "modules/kult4e-fr/assets/magnifying-glass.png",
 			"trigger": "Lorsque vous cherchez des indices, <strong>jetez 2d +Logique</strong>. Sur une r&eacute;ussite, vous d&eacute;couvrez toutes les pistes et pouvez poser des questions pour obtenir plus d'informations.",
 			"completesuccess": "<p>Posez deux questions.</p>\n<p>Questions:</p>\n<ul>\n<li>Comment puis-je obtenir plus de renseignements ?</li>\n<li>Que me dit mon instinct ?</li>\n<li>Qu'est-ce qui ne colle pas ?</li>\n</ul><p><em>[Lae joueur·euse formule sa demande.]</em></p>",
 			"partialsuccess": "<p>Posez une question. L'information n'est pas donn&eacute;e sans contrepartie. Au choix du·de la meneur·euse, vous devez passer par un autre interlocuteur ou vous procurer un autre objet pour obtenir votre information; vous exposer au danger; ou encore d&eacute;penser plus de ressources et de temps. Ferez-vous ce sacrifice ?</p>\n<p>Questions:</p>\n<ul>\n<li>Comment puis-je obtenir plus de renseignements ?</li>\n<li>Que me dit mon instinct ?</li>\n<li>Qu'est-ce qui ne colle pas ?</li>\n</ul><p><em>[Lae joueur·euse formule sa demande.]</em></p>",
@@ -75,7 +75,7 @@
 		{
 			"id": "Keep It Together",
 			"name": "Garder le contrôle",
-			"img": "modules/FoundryVTT-kult4e-fr/assets/meditation.png",
+			"img": "modules/kult4e-fr/assets/meditation.png",
 			"trigger": "Lorsque vous tentez de garder le contr&ocirc;le de vous-m&ecirc;me face au stress, &agrave; une exp&eacute;rience tramatique, &agrave; une influence psychique ou &agrave; des forces surnaturelles, <strong>jetez 2d +Volont&eacute;</strong>.",
 			"completesuccess": "Vous serrez les dents et gardez le contr&ocirc;le. <em>[Lae joueur·euse décrit la scène.]</em>",
 			"partialsuccess": "<p>Vous gardez le contr&ocirc;le, mais l'effort vous co&ucirc;te. Vous &ecirc;tes dans un &eacute;tat d'esprit particulier et vous ne serez &agrave; nouveau vous-m&ecirc;me que lorsque vous aurez trouv&eacute; le temps de r&eacute;cup&eacute;rer. Vous subissez un malus de -1 lorsque cet &eacute;tat d'esprit vous handicape.</p>\n<p>Au choix, vous:</p>\n<ul>\n<li>&Ecirc;tes en col&egrave;re (-1 Stabilit&eacute;).</li>\n<li>&Ecirc;tes triste (-1 Stabilit&eacute;).</li>\n<li>Avez peur (-1 Stabilit&eacute;).</li>\n<li>Vous vous sentez coupable (-1 Stabilit&eacute;).</li>\n<li>Devenez obs&eacute;d&eacute; (+1 Relation avec la personne responsable de cet &eacute;tat d'esprit).</li>\n<li>&Ecirc;tes distrait (-2 dans les situations o&ugrave; cet &eacute;tat d'esprit vous limite).</li>\n<li>Serez hant&eacute;, plus tard, par cette exp&eacute;rience.</li>\n</ul><p><em>[Lae joueur·euse expose son choix.]</em></p>",
@@ -84,7 +84,7 @@
 		{
 			"id": "Observe a Situation",
 			"name": "Observer la situation",
-			"img": "modules/FoundryVTT-kult4e-fr/assets/look-at.png",
+			"img": "modules/kult4e-fr/assets/look-at.png",
 			"trigger": "Lorsque vous observez la situation, <strong>jetez 2d +Perception</strong>. Sur une r&eacute;ussite, posez des questions au·à la meneur·euse &agrave; propos de ce que vous voyez. Lorsque vous agissez avec pertinence gr&acirc;ce &agrave; l'une des r&eacute;ponses offertes, obtenez +1 &agrave; votre jet.",
 			"completesuccess": "<p>Posez deux questions.</p>\n<p>Questions:</p>\n<ul>\n<li>Comment puis-je sortir d'ici ?</li>\n<li>Quelle menace est la plus dangereuse ?</li>\n<li>Que puis-je utiliser pour m'en sortir ?</li>\n<li>Que dois-je chercher ?</li>\n<li>Qu'est-ce qui m'est cach&eacute; ?</li>\n<li>Qu'est-ce qui ne tourne pas rond ?</li>\n</ul><p><em>[Lae joueur·euse formule sa demande.]</em></p>",
 			"partialsuccess": "<p>Posez une question.</p>\n<p>Questions:</p>\n<ul>\n<li>Comment puis-je sortir d'ici ?</li>\n<li>Quelle menace est la plus dangereuse ?</li>\n<li>Que puis-je utiliser pour m'en sortir ?</li>\n<li>Que dois-je chercher ?</li>\n<li>Qu'est-ce qui m'est cach&eacute; ?</li>\n<li>Qu'est-ce qui ne tourne pas rond ?</li>\n</ul><p><em>[Lae joueur·euse formule sa demande.]</em></p>",
@@ -93,7 +93,7 @@
 		{
 			"id": "Read a Person",
 			"name": "Lire une personne",
-			"img": "modules/FoundryVTT-kult4e-fr/assets/read.png",
+			"img": "modules/kult4e-fr/assets/read.png",
 			"trigger": "Lorsque vous voulez lire une personne, <strong>jetez 2d +Intuition</strong>. Sur une r&eacute;ussite, vous pouvez poser des questions au·à la meneur·euse ou au·à la joueur·euse sur le personnage concern&eacute;, n'importe quand durant la sc&egrave;ne, du moment que vous discutez avec lui.",
 			"completesuccess": "<p>Posez jusqu'&agrave; deux questions.</p>\n<p>Questions:</p>\n<ul>\n<li>Dites-vous la v&eacute;rit&eacute; ?</li>\n<li>Comment vous sentez-vous ?</li>\n<li>Qu'&ecirc;tes-vous sur le point de faire ?</li>\n<li>Si vous pouviez me donner un ordre, quel serait-il ?</li>\n<li>Comment puis-je vous pousser &agrave; faire [...] ?</li>\n</ul><p><em>[Lae joueur·euse formule sa demande.]</em></p>",
 			"partialsuccess": "<p>Posez une question.</p>\n<p>Questions:</p>\n<ul>\n<li>Dites-vous la v&eacute;rit&eacute; ?</li>\n<li>Comment vous sentez-vous ?</li>\n<li>Qu'&ecirc;tes-vous sur le point de faire ?</li>\n<li>Si vous pouviez me donner un ordre, quel serait-il ?</li>\n<li>Comment puis-je vous pousser &agrave; faire [...] ?</li>\n</ul><p><em>[Lae joueur·euse formule sa demande.]</em></p>",
@@ -102,7 +102,7 @@
 		{
 			"id": "See Through the Illusion",
 			"name": "Voir au travers de l'Illusion",
-			"img": "modules/FoundryVTT-kult4e-fr/assets/bleeding-eye.png",
+			"img": "modules/kult4e-fr/assets/bleeding-eye.png",
 			"trigger": "Lorsque vous encaissez un choc, une blessure ou que des drogues ou des rituels changent votre perception des choses, <strong>jetez 2d +&Acirc;me</strong> pour <strong>Voir au travers de l'Illusion</strong>.",
 			"completesuccess": "Vous voyez les choses comme elle sont r&eacute;ellement. <em>[Lae meneur·euse décrit la scène.]</em>",
 			"partialsuccess": "<p>Vous voyez la R&eacute;alit&eacute;, mais l'Illusion est affect&eacute;e. Au choix du·de la meneur·euse :</p>\n<ul>\n<li>Quelque chose sent votre pr&eacute;sence.</li>\n<li>L'Illusion se d&eacute;chire autour de vous.</li>\n</ul><p><em>[Lae meneur·euse décrit la scène.]</em></p>",
