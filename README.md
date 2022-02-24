@@ -1,4 +1,4 @@
-# FoundryVTT-kult4e-fr
+# Module kult4e-fr pour Foundry VTT
 Améliorer votre expérience de jeu avec ce module de traduction VF pour la version Kult 4ème édition de Tom LaPorta pour Foundry VTT.
 
 ![image](https://user-images.githubusercontent.com/100078854/155355196-74ebe9f6-4c5b-47a4-b951-be7480f31f3e.png)
