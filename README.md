@@ -14,7 +14,7 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
 
 ## Version 1.0.1
 
- * Mise pour intégration à la bibliothèque officielle de Foundry VTT
+ * Mise à jour pour intégration à la bibliothèque officielle de Foundry VTT
  
 ## Version 1.0.0
 
