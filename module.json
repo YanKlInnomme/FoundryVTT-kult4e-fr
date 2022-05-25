@@ -2,7 +2,7 @@
     "name": "kult4e-fr",
     "title": "Kult 4e Traduction Française - Kult 4e French Translation",
     "description": "Module de traduction en langue française pour la version Kult 4ème édition de Tom LaPorta sur Foundry VTT<br>French translation module for the Kult 4th edition of Tom LaPorta on Foundry VTT",
-    "version": "1.0.1",
+    "version": "2.0.0",
     "minimumCoreVersion" : "0.7.9",
     "compatibleCoreVersion":"0.8.6",
     "dependencies":
@@ -21,11 +21,52 @@
     "author": "YanK (YanK#8683)",
     "esmodules": ["babele-register.js"],
     "scripts": [],
-    "styles": [],
-    "packs": [],
-	"system": [
-    "kult4e"
-	],
+    "styles": [
+        "css/kult4e.css"
+      ],
+    "packs": [
+      {
+      "name": "avantages",
+      "label": "Avantages",
+      "system": "kult4e",
+      "module": "kult4e-fr",
+      "path": "packs/avantages.db",
+      "entity": "Item"
+    },
+      {
+        "name": "désavantages",
+        "label": "Désavantages",
+        "system": "kult4e",
+        "module": "kult4e-fr",
+        "path": "packs/desavantages.db",
+        "entity": "Item"
+    },
+    {
+      "name": "sombres-secrets",
+      "label": "Sombres secrets",
+      "system": "kult4e",
+      "module": "kult4e-fr",
+      "path": "packs/sombres-secrets.db",
+      "entity": "Item"
+    },
+    {
+      "name": "kult-divinity-lost-ost",
+      "label": "Kult Divinity Lost OST",
+      "system": "kult4e",
+      "module": "kult4e-fr",
+      "path": "packs/kult-divinity-lost-ost.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "exemple-de-pj",
+      "label": "Exemple de PJ",
+      "system": "kult4e",
+      "module": "kult4e-fr",
+      "path": "packs/exemple-de-pj.db",
+      "entity": "Actor"
+    }
+    ],
+	"system": ["kult4e"],
     "languages": [{
       "lang": "fr",
       "name": "French",
