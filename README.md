@@ -1,9 +1,9 @@
 # Module kult4e-fr pour Foundry VTT
 Améliorer votre expérience de jeu avec ce module de traduction VF pour la version Kult 4ème édition de Tom LaPorta pour Foundry VTT.
 
-![image](https://user-images.githubusercontent.com/100078854/155355196-74ebe9f6-4c5b-47a4-b951-be7480f31f3e.png)
-![image](https://user-images.githubusercontent.com/100078854/155355878-b5ed6345-e55e-47a4-8995-a7d59c0bd78f.png)
-![image](https://user-images.githubusercontent.com/100078854/155355927-66548de7-33e4-4805-8633-84a763b8656a.png)
+![Capture d’écran 2022-05-25 102005](https://user-images.githubusercontent.com/100078854/170216934-6d92f928-4d67-4540-b87f-fd48e9e2914a.jpg)
+![Capture d’écran 2022-05-25 102403](https://user-images.githubusercontent.com/100078854/170216982-7555c171-d6bd-4278-9979-839345d2cc5c.jpg)
+![Capture d’écran 2022-05-25 102456](https://user-images.githubusercontent.com/100078854/170216996-e424cca4-67af-409a-b2b4-b7a0c9d74876.jpg)
 
 ## Prérequis
 
@@ -11,6 +11,13 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
  * Le système Kult 4ème édition de Tom LaPorta
  * Le module Babele (L'indispensable pour faire de la traduction)
  * Le module Lib-wrapper (Requis par Babele)
+
+## Version 2.0.0
+
+ * Mise à jour graphique du logo et de la pause
+ * Ajout des compendiums "Avantages", "Désavantages" et "Sombres secrets"
+ * Ajout d'un exemple de PJ : Rebecca Cooper
+ * Ajout de la bande sonore originale Kult Divinité Perdue (source: https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack)
 
 ## Version 1.0.1
 
@@ -31,6 +38,13 @@ In order to work this module requires the following prerequisites:
  * Tom LaPorta's Kult 4th edition system
  * The Babele module (The essential for translation)
  * The Lib-wrapper module (Required by Babele)
+
+## Version 2.0.0
+
+ * Graphic update of the logo and the pause
+ * Added "Advantages", "Disadvantages" and "Dark Secrets" compendiums
+ * Added a sample player character: Rebecca Cooper
+ * Added the original soundtrack Kult Divinity Lost (source: https://helmgast.bandcamp.com/album/kult-divinity-lost-original-game-soundtrack)
 
 ## Version 1.0.1
 
