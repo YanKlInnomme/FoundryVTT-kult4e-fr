@@ -1,0 +1,23 @@
+#logo {
+  content: url("../assets/logo.png");
+  width: 150px;
+  height: auto;
+  padding-right: 10px;  
+}
+
+#pause > img {
+  content: url("../assets/pause.png");
+  height: 220px;
+  width: 220px;
+  top: -22px;
+  left: calc(50% - 110px);
+}
+
+#pause {
+  top: 50%;
+}
+
+#pause h3 {
+  color: black;
+  text-shadow: 0px 0px 15px #940A0A;
+}
